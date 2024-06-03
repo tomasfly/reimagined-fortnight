@@ -4,7 +4,7 @@ import {View, Text} from 'react-native';
 const WalletScreen: React.FC = () => {
   return (
     <View>
-      <Text>Home Screen</Text>
+      <Text>Wallet Screen</Text>
     </View>
   );
 };

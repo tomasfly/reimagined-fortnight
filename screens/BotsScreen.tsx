@@ -4,7 +4,7 @@ import {View, Text} from 'react-native';
 const BotsScreen: React.FC = () => {
   return (
     <View>
-      <Text>Home Screen</Text>
+      <Text>Bots Screen</Text>
     </View>
   );
 };
